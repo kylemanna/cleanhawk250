@@ -39,7 +39,9 @@ The goal of the CleanHawk 250 PDB is to simplify wiring and imporve integration 
 
 #### Wire Extension Cables
 
-It is recommended to use Dupont female to female cable connectors to wire the PDB to the receiver and flight controller. Available on [Amazon](http://amzn.com/B00KOL5BCC) in 10cm length. ![Dupont cables](http://i.imgur.com/sG2cDaPm.jpg)  An alternative to these are male to male servo extension headers such as [these from Amazon](http://amzn.com/B00FGLSTY2).  ![Servo extension](http://i.imgur.com/mOOl1RLm.jpg)
+It is recommended to use Dupont female to female cable connectors to wire the PDB to the receiver and flight controller. Available on [Amazon in 10cm length](http://amzn.com/B00KOL5BCC). ![Dupont cables](http://i.imgur.com/sG2cDaPm.jpg)
+
+An alternative to these are male to male servo extension headers such as [these from Amazon](http://amzn.com/B00FGLSTY2).  ![Servo extension](http://i.imgur.com/mOOl1RLm.jpg)
 
 #### Angled Pin Headers
 
@@ -47,7 +49,7 @@ Consider picking up 90 degree angled pin headers if mounting KISS ESCs or if the
 
 #### Electrical Tape
 
-Electrical tape is a critical requirement to insulate parts mounted on the PCB (i.e. KISS ESCs) to prevent wearing through the solder mask.
+Electrical tape is a critical requirement to insulate parts mounted on the PCB (i.e. KISS ESCs) to prevent wearing through the solder mask.  I stick to [3M Super33](http://amzn.com/B00004WCCL).
 
 #### Cable Ties
 
