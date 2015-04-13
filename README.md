@@ -28,6 +28,31 @@ The goal of the CleanHawk 250 PDB is to simplify wiring and imporve integration 
 * Sufficient copper keep out area surrounding the mounting holes
 * Shielded inductors to reduce switching power supply noise.
 
+### What's Included
+
+* (1) CleanHawk 250 Power Distribution Board with all surface mount components installed.
+* (1) 1x4 pin header for the auxilliary port
+* (1) 1x6 pin header for the ESC and flight controller port
+* (3) 2x2 pin header for respective power supply outputs (5V, 9V, Filtered)
+
+### Recommended Additional Components
+
+#### Wire Extension Cables
+
+It is recommended to use Dupont female to female cable connectors to wire the PDB to the receiver and flight controller. Available on [Amazon](http://amzn.com/B00KOL5BCC) in 10cm length. ![Dupont cables](http://i.imgur.com/sG2cDaPm.jpg)  An alternative to these are male to male servo extension headers such as [these from Amazon](http://amzn.com/B00FGLSTY2).  ![Servo extension](http://i.imgur.com/mOOl1RLm.jpg)
+
+#### Angled Pin Headers
+
+Consider picking up 90 degree angled pin headers if mounting KISS ESCs or if the front/rear pin headers for LEDs are more useful angled.
+
+#### Electrical Tape
+
+Electrical tape is a critical requirement to insulate parts mounted on the PCB (i.e. KISS ESCs) to prevent wearing through the solder mask.
+
+#### Cable Ties
+
+Who doesn't have these?  Strap down wires or ESCs to secure them.
+
 
 ## Quick Start Guide
 
