@@ -39,9 +39,13 @@ The goal of the CleanHawk 250 PDB is to simplify wiring and imporve integration 
 
 #### Wire Extension Cables
 
-It is recommended to use Dupont female to female cable connectors to wire the PDB to the receiver and flight controller. Available on [Amazon in 10cm length](http://amzn.com/B00KOL5BCC). ![Dupont cables](http://i.imgur.com/sG2cDaPm.jpg)
+It is recommended to use Dupont female to female cable connectors to wire the PDB to the receiver and flight controller. Available on [Amazon in 10cm length](http://amzn.com/B00KOL5BCC).
 
-An alternative to these are male to male servo extension headers such as [these from Amazon](http://amzn.com/B00FGLSTY2).  ![Servo extension](http://i.imgur.com/mOOl1RLm.jpg)
+![Dupont cables](http://i.imgur.com/sG2cDaPm.jpg)
+
+An alternative to these are male to male servo extension headers such as [these from Amazon](http://amzn.com/B00FGLSTY2).
+
+![Servo extension](http://i.imgur.com/mOOl1RLm.jpg)
 
 #### Angled Pin Headers
 
