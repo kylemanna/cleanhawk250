@@ -59,11 +59,33 @@ Pin | Function
 
 ## P5 - LC Filter Header
 
-Provides access to LC filtered regulator output.  The source of the filter is selectable with the `JP1 Filter Sel solder pads.  Bridge the pads to select desired output voltage.  Most people power FPV gear will want 9V bridged to the center pad of `JP1` and power the video transmitter (VTX) and the FPV camera.
+Provides access to LC filtered regulator output.  The source of the filter is selectable with the `JP1` Filter Sel solder pads.  Bridge the pads to select desired output voltage.  Most people power FPV gear will want 9V bridged to the center pad of `JP1` and power the video transmitter (VTX) and the FPV camera.
 
 Pin | Function
 ----|---------
 1   | +FLT
 2   | GND
 3   | +FLT
+4   | GND
+
+## P1 and P2 - Front and Rear Auxiliary Power
+
+Intended to power LEDs or other accessories.
+
+Pin | Function
+----|---------
+1   | +9V
+2   | GND
+3   | +5V
+4   | GND
+
+## P3 and P4 - Front and Rear Auxiliary Power
+
+Intended to power LEDs or other accessories.
+
+Pin | Function
+----|---------
+1   | +BATT
+2   | GND
+3   | +5V
 4   | GND
