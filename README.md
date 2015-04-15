@@ -12,7 +12,7 @@ The goal of the CleanHawk 250 PDB is to simplify wiring and imporve integration 
 ### Buy It Now
 
 * [MassiveRC](http://bit.ly/1aG1E3O)
-* Tindie
+* Tindie (coming soon!)
 
 ### Features
 
@@ -52,6 +52,14 @@ An alternative to these are male to male servo extension headers such as [these 
 #### Angled Pin Headers
 
 Consider picking up 90 degree angled pin headers if mounting KISS ESCs or if the front/rear pin headers for LEDs are more useful angled.
+
+#### XT60 Battery Connector and Pigtail
+
+An XT60 connector is the most popular battery connector and a pigtail easily connects to the center battery pads.
+
+![XT60 Pigtail](http://i.imgur.com/YXXkkKYm.jpg)
+
+[MassiveRC carries XT60 connectors](http://bit.ly/1OBGKkD) and are perfect compliment for your PDB order.
 
 #### Electrical Tape
 
