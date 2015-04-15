@@ -64,11 +64,13 @@ Who doesn't have these?  Strap down wires or ESCs to secure them.
 
 ## Quick Start Guide
 
-### Step 1 -- Install Pin Headers
+### Step 1 -- Install Pin Headers and Battery Cables
 
 The `P9` header is critical for flight and should be installed first.  All other headers are optional and pilots should refer to the [pin headers documentation](PinHeaders.md) for more details.
 
 Verify that the Dupont cables or servo extensions are available to connect `P9` to the flight controller.
+
+Battery wires up to 12 AWG are installed to the large through hole pads in the center of the board.  Due to the massive copper area surrounding the pads to transfer large amounts of current to the ESCs, **a large amount of heat is necessary to heat this area**.  *Turn the soldering iron up, feed solder to help transfer heat, and be patient.*
 
 ### Step 2 -- Configure LC Filter and FPV Gear
 
