@@ -2,6 +2,8 @@
 
 This document outlines the basic tasks to get the CleanHawk 250 Power Distribution Board (PDB) up and flying.
 
+**Documentation can be found at the [CleanHawk250 GitHub repository](https://github.com/kylemanna/cleanhawk250).**
+
 
 ## Overview
 
@@ -64,17 +66,26 @@ Who doesn't have these?  Strap down wires or ESCs to secure them.
 
 ### Step 1 -- Install Pin Headers
 
+The `P9` header is critical for flight and should be installed first.  All other headers are optional and pilots should refer to the [pin headers documentation](PinHeaders.md) for more details.
+
+Verify that the Dupont cables or servo extensions are available to connect `P9` to the flight controller.
+
 ### Step 2 -- Configure LC Filter and FPV Gear
+
+The LC filter should be bridged to the 9V side for most FPV gear.  Verify this is valid for your gear and modify `JP1` if needed.  More details in the [pin headers documentation](PinHeaders.md).
 
 ### Step 3 -- Install ESCs
 
+Mount the ESCs to the board with **some insulation such as heat shrink or 3M Super33 to avoid shorts** that could occur should they wear through the black solder mask.  More details in the [ESC documentation](ESCs.md).
+
 ### Step 4 -- Install on Quadcopter
 
+Install the board in place of the bottom carbon fiber plate.  Verify that all screws and hardware fit in the designated area and aren't rubbing on the PDB. Note that there are recesses on the board around all mounting holes where copper has been removed to prevent issues.  **Failure to remove any objects that are touching the PDB could damage the PDB and cause a short and in extreme cases a fire.** Don't be on the news or YouTube with a flaming CleanHawk quad copter!
 
 ## Known Issues
 
 * 5V and GND silkscreen labels flipped on first build, but copper traces are correct. Refer to images or verify with multipmeter before powering flight controller.
-* QR code placement is a little off and leads to now [defunct bit.ly bundle](http://bitly.is/1aG0YLU).  Thanks bit.ly!  I'd be nice if I could change the destination URL to the Github page instead.
+* QR code placement is a little off and leads to now [defunct bit.ly bundle](http://bitly.is/1aG0YLU).  Thanks bit.ly!  It'd be nice if I could change the destination URL to the GitHub page instead.
 
 
 ## Additional Reading
