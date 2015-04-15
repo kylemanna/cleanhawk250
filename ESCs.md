@@ -6,6 +6,17 @@ The board is designed in such a way that it allows for ultra minature ESCs such 
 
 The ESC wires are routed to the flight controller via the `P9` pin header.  The traces on the board run to the corresponding pads where the ESCs are to be mounted.  Power is provided via 2oz copper and very short distance from the battery solder pads for optimum efficiency.
 
+### Pinout
+
+Pin | Function
+----|---------
+1   | `BATT+` / `LIPO+` - Directly connected to battery inputs
+2   | `SIG` - connect to the PWM input of the ESC)
+3   | `GND` - connected to LIPO- on the PCB
+4   | `BATT-` / `LIPO-` - Directly connected to battery inputs
+
+![ESC1](http://i.imgur.com/BJH1Qjs.png)
+
 ### KISS 18A ESCs
 
 These ESCs can be mounted directly to 90° pin headers and soldered to the ESC boards.  This results in an ultra clean look.  Ensure the ESCs are secured with an additional mechanism (not just pin headers) to prevent them from vibrating in flight.
