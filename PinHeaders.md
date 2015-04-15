@@ -21,6 +21,8 @@ Pin | Function
 5   | ESC3
 6   | ESC4
 
+![P9](http://i.imgur.com/9cJEJrq.png)
+
 ## P6 - Auxiliary Receiver Header
 
 Provides signals commonly used for telemetry on RC Receivers such as the FrSky D4R-II.
@@ -34,6 +36,8 @@ Pin | Function
 
 The `AD2` pin can be directly connected to a FrSky receiver and usedin place of existing voltage dividers.  It works with up to 4S lipos. `AD2 = +BATT * 2.32 / (10 + 2.32)`.  The telmetry gain will need to be adjusted appropriately, **verify with a multimeter before flying**.
 
+![P6](http://i.imgur.com/I3QPQLk.png)
+
 ## P7 - 5V Header
 
 Provides access to 5V regulator output.  Use for auxiliary flight systems.
@@ -44,6 +48,8 @@ Pin | Function
 2   | GND
 3   | +5V
 4   | GND
+
+![P7](http://i.imgur.com/xUpPPmB.png)
 
 ## P8 - 9V Header
 
@@ -56,6 +62,7 @@ Pin | Function
 3   | +9V
 4   | GND
 
+![P8](http://i.imgur.com/SFPlPKp.png)
 
 ## P5 - LC Filter Header
 
@@ -68,6 +75,10 @@ Pin | Function
 3   | +FLT
 4   | GND
 
+![P5](http://i.imgur.com/Q2JdvOE.png)
+![JP1](http://i.imgur.com/cEiBjXs.png)
+
+
 ## P1 and P2 - Front and Rear Auxiliary Power
 
 Intended to power LEDs or other accessories.
@@ -79,6 +90,9 @@ Pin | Function
 3   | +5V
 4   | GND
 
+![P1](http://i.imgur.com/Y8G0usm.png)
+![P2](http://i.imgur.com/4kNsTz7.png)
+
 ## P3 and P4 - Front and Rear Auxiliary Power
 
 Intended to power LEDs or other accessories.
@@ -89,3 +103,6 @@ Pin | Function
 2   | GND
 3   | +5V
 4   | GND
+
+![P3](http://i.imgur.com/wq8yRdY.png)
+![P4](http://i.imgur.com/Q2JdvOE.png)
