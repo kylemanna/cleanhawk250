@@ -51,7 +51,7 @@ An alternative to these are male to male servo extension headers such as [these 
 
 #### Angled Pin Headers
 
-Consider picking up 90 degree angled pin headers if mounting KISS ESCs or if the front/rear pin headers for LEDs are more useful angled.
+Consider picking up 90° 0.1" angled pin headers. Single row pin headers aid in mounting KISS ESCs.  Double row pin headers are very useful if the front/rear pin P1-P4 headers for LED connections.
 
 #### XT60 Battery Connector and Pigtail
 
@@ -63,22 +63,22 @@ An XT60 connector is the most popular battery connector and a pigtail easily con
 
 #### Electrical Tape
 
-Electrical tape is a critical requirement to insulate parts mounted on the PCB (i.e. KISS ESCs) to prevent wearing through the solder mask.  I stick to [3M Super33](http://amzn.com/B00004WCCL).
+Electrical tape is a critical requirement to insulate parts mounted on the PCB (i.e. KISS ESCs) to prevent wearing through the solder mask.  I stick to [3M Super33](http://amzn.com/B00004WCCL).  I recommend sticking some to the part of the PDB immediately below any mounted components such as ESCs.
 
 #### Cable Ties
 
-Who doesn't have these?  Strap down wires or ESCs to secure them.
+Strap down wires or ESCs to secure them.  Things will vibrate or rattle and eventually fail unless secured.
 
 
 ## Quick Start Guide
 
 ### Step 1 — Install Battery Wires
 
-Battery wires up to 12 AWG are installed to the large through hole pads in the center of the board.  Due to the massive copper area surrounding the pads to transfer large amounts of current to the ESCs, **a large amount of heat is necessary to heat this area**.  *Turn the soldering iron up, feed solder to help transfer heat, and be patient.*
+Battery wires up to 12 AWG are installed to the large through hole pads in the center of the board.  Due to the massive copper area surrounding the pads to transfer large amounts of current to the ESCs, **a large amount of heat is necessary to solder to this pad**.  *Turn the soldering iron temperature up, feed solder to help transfer heat from the tip to the pad, and be patient.*
 
 ### Step 2 — Install Pin Headers
 
-The `P9` header is critical for flight and should be installed first.  All other headers are optional and pilots should refer to the [pin headers documentation](PinHeaders.md) for more details.
+The `P9` header is critical for flight and should be installed first.  All other headers are *optiona*l and pilots should refer to the [pin headers documentation](PinHeaders.md) for more details.
 
 Verify that the Dupont cables or servo extensions are available to connect `P9` to the flight controller.
 
