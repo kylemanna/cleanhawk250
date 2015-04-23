@@ -12,6 +12,8 @@ Consider using [findchips.com](http://bit.ly/1CZ8GXm) and the part number listed
 
 ## Installation
 
+The unpopulated bulk capacitors are labeled with identfiers: `C1`, `C2`, `C3`, `C4`.
+
 The line or bar on the capcitor marks the anode and should be orientated in the direction that places that anode nearest the `+` symbol on the PCB silkscreen.
 
 These components are easily soldered with a traditional soldering iron and leaded or lead-free solder with flux.
