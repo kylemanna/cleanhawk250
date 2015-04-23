@@ -75,7 +75,7 @@ Pin | Function
 3   | +FLT
 4   | GND
 
-![P5](http://i.imgur.com/Q2JdvOE.png)
+![P5](http://i.imgur.com/8R2Fvnq.png)
 ![JP1](http://i.imgur.com/cEiBjXs.png)
 
 
