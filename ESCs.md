@@ -11,8 +11,8 @@ The ESC wires are routed to the flight controller via the `P9` pin header.  The 
 Pin | Function
 ----|---------
 1   | `BATT+` / `LIPO+` - Directly connected to battery inputs
-2   | `SIG` - connect to the PWM input of the ESC)
-3   | `GND` - connected to LIPO- on the PCB
+2   | `SIG` - connect to the PWM input of the ESC
+3   | `GND` - connected to LIPO- on the PCB, *only needed for opto isolated ESCs* but doesn't hurt to connect
 4   | `BATT-` / `LIPO-` - Directly connected to battery inputs
 
 ![ESC1](http://i.imgur.com/BJH1Qjs.png)
