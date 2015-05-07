@@ -95,7 +95,7 @@ Pin | Function
 
 ## P3 and P4 - Front and Rear Auxiliary Power
 
-Intended to power LEDs or other accessories.
+Intended to power LEDs, cameras fed directly from batteries or other accessories.
 
 Pin | Function
 ----|---------
