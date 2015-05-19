@@ -98,6 +98,7 @@ Install the board in place of the bottom carbon fiber plate.  Verify that all sc
 
 * 5V and GND silkscreen labels flipped on first build, but copper traces are correct. Refer to images or verify with multipmeter before powering flight controller.
 * QR code placement is a little off and leads to now [defunct bit.ly bundle](http://bitly.is/1aG0YLU).  Thanks bit.ly!  It'd be nice if I could change the destination URL to the GitHub page instead.
+* `JP1` / `FILTER_SEL`'s +5V pad isn't hooked upto `+5V` and won't work as expected.  Instead jump the center pad of `JP1` / `FILTER_SEL` to the `+5V` pin of `P2` or `P3`.
 
 
 ## Additional Reading
