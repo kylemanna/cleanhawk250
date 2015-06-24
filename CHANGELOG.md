@@ -11,7 +11,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - QR Code on the bottom.
 
 ### Changed
-- Fixed missing pin on JP1 solder jumper for 5V selection.
+- Fixed missing trace between 5V net and JP1 solder jumper for 5V filter selection.
 - Correct silkscreen label for P9 (ESC connector).
 - Tweak pad layout for LEDs.
 - Tweak pad layout for regulator chip.
