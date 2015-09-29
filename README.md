@@ -33,7 +33,7 @@ The goal of the CleanHawk 250 PDB is to simplify wiring and imporve integration 
 ### What's Included
 
 * (1) CleanHawk 250 Power Distribution Board with all surface mount components installed.
-* (1) 1x4 pin header for the auxilliary port
+* (1) 1x4 pin header for the auxiliary port
 * (1) 1x6 pin header for the ESC and flight controller port
 * (3) 2x2 pin header for respective power supply outputs (5V, 9V, Filtered)
 
