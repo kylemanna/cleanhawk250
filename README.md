@@ -1,4 +1,4 @@
-# CleanHawk 250 Power Distribution Board
+# CleanHawk 250 Quadcopter Power Distribution Board for Emax 250
 
 This document outlines the basic tasks to get the CleanHawk 250 Power Distribution Board (PDB) up and flying.
 
@@ -7,7 +7,7 @@ This document outlines the basic tasks to get the CleanHawk 250 Power Distributi
 
 ## Overview
 
-The goal of the CleanHawk 250 PDB is to simplify wiring and imporve integration and reliability.  The printed circuit board replaces the bottom carbon fiber frame support on the Emax 250 / Nighthawk 250.
+The goal of the CleanHawk 250 PDB is to simplify wiring and imporve integration and reliability.  The printed circuit board replaces the bottom carbon fiber frame support on the Emax 250 / Nighthawk 250 quadcopters.
 
 ### Buy It Now
 
