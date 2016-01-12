@@ -6,8 +6,11 @@ The board has provisions for 4 additional tantalum capacitors to help improve th
 
 The pads are an industry standard `EIA 7343 metric` size.  Capacitors installed here **must be ultra low ESR** to have their desired effect. I also highly recommend following industry standard techniques for voltage derating capacitors to avoid failure, that is to say, pick a voltage rating of about double the nominal voltage of your batteries.
 
+Links to findchips.com for a list of distributors:
 * [AVX `TCJY336M025R0060`](http://bit.ly/1RJzCWf)
 * [KEMET `T521V336M025ATE060`](http://bit.ly/1mUuXWo)
+
+Also consider eBay.com and AliExpress.com for the parts as well.
 
 ## Installation
 
