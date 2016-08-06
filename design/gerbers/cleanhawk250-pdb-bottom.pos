@@ -1,0 +1,10 @@
+### Module positions - created on Fri 26 Jun 2015 12:04:55 PM PDT ###
+### Printed by Pcbnew version kicad (2015-06-19 BZR 5793)-product
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+D1       RGB_LED_5050     LED_5050_RGB      133.6000    59.8000     285.0    bottom
+D3       RGB_LED_5050     LED_5050_RGB      133.6000    23.8000     255.0    bottom
+D4       RGB_LED_5050     LED_5050_RGB       11.2000    59.0000     285.0    bottom
+D6       RGB_LED_5050     LED_5050_RGB       11.2000    24.6000     255.0    bottom
+## End

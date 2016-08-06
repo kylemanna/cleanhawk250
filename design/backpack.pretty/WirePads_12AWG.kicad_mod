@@ -1,0 +1,16 @@
+(module WirePads_12AWG (layer F.Cu) (tedit 54D06D29)
+  (fp_text reference W1 (at 0 4.445) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value WIREPADS (at 0 -1.27 90) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user - (at 2.5 -5) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.15)))
+  )
+  (fp_text user + (at -2.5 -5) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.15)))
+  )
+  (pad + smd rect (at -2.5 0) (size 3.5 7) (layers F.Cu F.Paste F.Mask))
+  (pad - smd rect (at 2.5 0) (size 3.5 7) (layers F.Cu F.Paste F.Mask))
+)
