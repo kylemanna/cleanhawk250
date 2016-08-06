@@ -113,3 +113,7 @@ Review the [Change Log](http://bit.ly/1GxYUxc) for more details.
 * [Hackaday Project Page and Build Log](http://bit.ly/1aG09m9)
 * [Imgur Image Gallery](http://bit.ly/1aG00z3)
 * [Change Log](http://bit.ly/1GxYUxc)
+
+## License
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
