@@ -12,7 +12,7 @@ The goal of the CleanHawk 250 PDB is to simplify wiring and imporve integration 
 ### Buy It Now
 
 * [Tindie](http://bit.ly/1HMsioh)
-* [Amazon](http://amzn.to/1Qngux0)
+* [Amazon](http://amzn.to/2fEIMti)
 
 ### Features
 
